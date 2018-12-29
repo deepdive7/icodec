@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/edenzhong7/ifly/icodec"
+	"github.com/deepdive7/icodec"
 )
 
 type Codec struct{}
